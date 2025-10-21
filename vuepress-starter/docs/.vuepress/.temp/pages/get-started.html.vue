@@ -1,6 +1,6 @@
 <template><div><h1 id="🚀-get-started" tabindex="-1"><a class="header-anchor" href="#🚀-get-started"><span>🚀 Get Started</span></a></h1>
 <p>This is a normal page, which contains VuePress basics.</p>
-<h2 id="📄-pages" tabindex="-1"><a class="header-anchor" href="#📄-pages"><span>📄 Pages</span></a></h2>
+<h2 id="📄-page" tabindex="-1"><a class="header-anchor" href="#📄-page"><span>📄 Page</span></a></h2>
 <p>You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.</p>
 <p>See <a href="https://vuejs.press/guide/page.html#routing" target="_blank" rel="noopener noreferrer">routing</a> for more details.</p>
 <h2 id="🧩-content" tabindex="-1"><a class="header-anchor" href="#🧩-content"><span>🧩 Content</span></a></h2>
